@@ -2,3 +2,10 @@ django-fileserver
 
 Simple file serving with Django, with ACLs and file anonymization on
 disk.
+
+TODO
+----
+
+Add group ACLs.
+X-Sendfile support.
+Documentation.
